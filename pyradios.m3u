@@ -1,0 +1,97 @@
+# Paraguay-Radios-
+Radios de Paraguay
+
+#EXTM3U
+#EXTINF:-1 tvg-id="mov780" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/780.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",1° De marzo 780 AM
+https://www.desde-paraguay.com/mov780/mov780.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="trans730" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/730.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",ABC Cardinal 730 AM
+https://www.desde-paraguay.com/trans730/trans730/chunks.m3u8
+#EXTINF:-1 tvg-id="trans680" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/680.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",Cáritas 680 AM
+https://www.desde-paraguay.com/trans680/trans680/chunklist.m3u8
+#EXTINF:-1 tvg-id="mov1330" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1330.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",Chaco Boreal 1330 AM
+https://copacoradios.desdeparaguay.net/mov1330/mov1330.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="movfeyalegria" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1300.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",Fe Y Alegria 1300 AM
+https://copacoradios.desdeparaguay.net/movfeyalegria/movfeyalegria.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="movdeport" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1120.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",La Tribu Deport 1120 AM
+https://copacoradios.desdeparaguay.net/movdeport/movdeport.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="mov800" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/800.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",La Union 800 AM
+https://copacoradios.desdeparaguay.net/mov800/mov800.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="mov1200" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1200.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",Libre 1200 AM
+https://copacoradios.desdeparaguay.net/mov1200/mov1200.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="mov650" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/650.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",LT 650 AM
+https://copacoradios.desdeparaguay.net/mov650/mov650.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="mov1000" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1000.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",Mil 1000 AM
+https://copacoradios.desdeparaguay.net/mov1000/mov1000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="trans1080" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/monumentaltv.png" group-title="RADIOS DE ASUNCIÓN (AM)",Monumental 1080 AM
+https://www.desde-paraguay.com/trans1080/trans1080/chunks.m3u8
+#EXTINF:-1 tvg-id="trans920" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/920.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",Radio Nacional Del Paraguay 920 AM
+https://copacoradios.desdeparaguay.net/trans920/trans920/playlist.m3u8
+#EXTINF:-1 tvg-id="mov1020" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/nandutitv.png" group-title="RADIOS DE ASUNCIÓN (AM)",Ñanduti 1020 AM
+https://www.desde-paraguay.com/mov1020/mov1020.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="trans970" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/970.png?4" group-title="RADIOS DE ASUNCIÓN (AM)",Universo 970 AM
+https://copacoradios.desdeparaguay.net/trans970/trans970/chunklist.m3u8
+#EXTINF:-1 tvg-id="movamor" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/amor.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Amor 95.9 FM
+https://www.desde-paraguay.com/movamor/movamor.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="transant" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/anr.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",ANR 98.9 FM
+https://zn1radios.desdeparaguay.net/transanr/transanr/playlist.m3u8
+#EXTINF:-1 tvg-id="movaranduka" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/aranduka.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Aranduka 87.9 FM
+https://zn1radios.desdeparaguay.net/movaranduka/movaranduka.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="movaspen" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/aspen.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Aspen 102.7 FM
+https://copacoradios.desdeparaguay.net/movaspen/movaspen.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="transcamara" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/camara.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Cámara 104.1 FM
+https://www.desde-paraguay.com/transcamara/transcamara/chunks.m3u8
+#EXTINF:-1 tvg-id="movcanal100" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/canal100.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Canal 100.1 FM
+https://www.desde-paraguay.com/movcanal100/movcanal100.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="transabcfm" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/cardinalromance.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",ABC Cardinal Romance 98.5 FM
+https://www.desde-paraguay.com/transabcfm/transabcfm/chunks.m3u8
+#EXTINF:-1 tvg-id="movcfa" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/cfa.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",CFA 99.5FM
+https://www.desde-paraguay.com/movcfa/movcfa.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="movcorazon" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/corazon.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Corazón 99.1 FM
+https://www.desde-paraguay.com/movcorazon/movcorazon.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="transradiodisney" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/radiodisney.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Disney 96.5 FM
+https://copacoradios.desdeparaguay.net/transradiodisney/transradiodisney/chunklist.m3u8
+#EXTINF:-1 tvg-id="transestacion40" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/estacion40.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Estacion4O 91.1 FM
+https://copacoradios.desdeparaguay.net/transestacion40/transestacion40/chunklist.m3u8
+#EXTINF:-1 tvg-id="movemisoras" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/emisoras.png?4" group-title="RADIOS DE ASUNCIÓN (FM)", Emisoras Paraguay 106.1 FM
+https://www.desde-paraguay.com/movemisoras/movemisoras.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="movexclusiva" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/exclusiva.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Exlusiva 103.7 FM 
+https://www.desde-paraguay.com/movexclusiva/movexclusiva.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="movfarra" tvg logo="https://farra.com.py/wp-content/uploads/2025/04/LOGO-DE-FARRA_2-1.png" group-title="RADIOS DE ASUNCIÓN (FM)",Farra 101.3 FM
+https://copacoradios.desdeparaguay.net/movfarra/movfarra.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="movfernando" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/fernando.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",F. De La Mora 100.5 FM
+https://www.desde-paraguay.com/movfernando/movfernando.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="movgo" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/go.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Go 92.3 FM
+https://www.desde-paraguay.com/movgo/movgo.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="movhit" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/hit.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Hit 91.5 FM
+https://www.desde-paraguay.com/movhit/movhit.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="movlatina" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/latina.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Latina 97.1 FM
+https://www.desde-paraguay.com/movlatina/movlatina.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="movmemories" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/memories.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Memories 97.5 FM
+https://www.desde-paraguay.com/movmemories/movmemories.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="movmix" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/mix.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Mix 90.3 FM
+https://zn1radios.desdeparaguay.net/movmix/movmix.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="transmontecarlo" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/montecarlo.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Montecarlo 100.9 FM
+https://www.desde-paraguay.com/transmontecarlo/transmontecarlo/chunks.m3u8
+#EXTINF:-1 tvg-id="transnacional" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/nacional.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Nacional del Paraguay 95.1 FM
+https://copacoradios.desdeparaguay.net/transnacional/transnacional/chunklist.m3u8
+#EXTINF:-1 tvg-id="movnihongakko" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/nihongakko.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Nihol Gakko 101.7 FM
+https://copacoradios.desdeparaguay.net/movnihongakko/movnihongakko.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="mov883" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/883.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Ñemby 88.3 FM
+https://www.desde-paraguay.com/mov883/mov883.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="transpalma" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/palma.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Palma 106.5 FM
+https://www.desde-paraguay.com/transpalma/transpalma/chunks.m3u8
+#EXTINF:-1 tvg-id="transpopular" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/popular.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Popular 103.1 FM
+https://www.desde-paraguay.com/transpopular/transpopular/chunks.m3u8
+#EXTINF:-1 tvg-id="movrockandpop" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/rockandpop.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Rock & Pop 95.5 FM
+https://www.desde-paraguay.com/movrockandpop/movrockandpop.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="movromance" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/romance.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Romance 104.5 FM
+https://www.desde-paraguay.com/movromance/movromance.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="movtropicalia" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/tropicalia.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Tropicalia 93.9 FM 
+https://www.desde-paraguay.com/movtropicalia/movtropicalia.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="transurbana" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/urbana.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Urbana 106.9 FM
+https://www.desde-paraguay.com/transurbana/transurbana/chunks.m3u8
+#EXTINF:-1 tvg-id="movvenus" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/venus.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Venus Media 105.1 FM
+https://www.desde-paraguay.com/movvenus/movvenus.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="movvibras" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/vibras.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Vibras 92.7 FM
+https://copacoradios.desdeparaguay.net/movvibras/movvibras.stream/chunklist.m3u8
+
