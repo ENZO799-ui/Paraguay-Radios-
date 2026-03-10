@@ -94,4 +94,17 @@ https://www.desde-paraguay.com/transurbana/transurbana/chunks.m3u8
 https://www.desde-paraguay.com/movvenus/movvenus.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="movvibras" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/vibras.png?4" group-title="RADIOS DE ASUNCIÓN (FM)",Vibras 92.7 FM
 https://copacoradios.desdeparaguay.net/movvibras/movvibras.stream/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="movsanandres" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/sanandres.png?4" group-title="RADIOS DE ALTO VERÁ",San Andrés 103.7 FM
+https://copacoradios.desdeparaguay.net/movsanandres/movsanandres.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="movatyra" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/atyra.png?4" group-title="RADIOS DE ATYRA",Atyra 105.7 FM
+https://copacoradios.desdeparaguay.net/movatyra/movatyra.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="movserrania" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/serrania.png?4" group-title="RADIOS DE CAACUPE",Serranía 99.7 FM
+https://copacoradios.desdeparaguay.net/movserrania/movserrania.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="movcentenario" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/centenario.png?4" group-title="RADIOS DE CAAGUAZU",Centenario 99.5 FM
+https://copacoradios.desdeparaguay.net/movcentenario/movcentenario.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="movelangel" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/elangel.png?4" group-title="RADIOS DE CAPITAN MIRANDA",El Angel 94.9 FM
+https://copacoradios.desdeparaguay.net/movelangel/movelangel.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="movcaraguatay" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/caraguatay.png?4" group-title="RADIOS DE CARAGUATAY",Caraguatay 90.3 FM
+https://copacoradios.desdeparaguay.net/movcaraguatay/movcaraguatay.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="movaltopy" tvg logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/altopy.png?4" group-title="RADIOS DE CARMELO PERALTA",Alto Paraguay 99.9 FM
+https://copacoradios.desdeparaguay.net/movaltopy/movaltopy.stream/chunklist.m3u8
